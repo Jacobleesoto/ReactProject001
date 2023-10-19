@@ -49,7 +49,7 @@ h2 {
 
 .navbar-dark {
   background-color: #901cad;
-  background-image: linear-gradient(to right, #1a1a1a, #3b0202, #1a1a1a);
+  background-image: linear-gradient(to right, #1a1a1a, #0136a0, #1a1a1a);
   margin-bottom: 2rem;
   min-height: 8rem;
 }
