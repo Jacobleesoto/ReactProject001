@@ -9,6 +9,12 @@ import {
 } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 
+/* to do list
+    - change icons for nav items
+    - center texts
+    - add login modal form
+*/
+
 const Header = () => {
    const [menuOpen, setMenuOpen] = useState(false);
    return (
