@@ -5,6 +5,7 @@ import { Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage.js';
 import AddPage from './pages/AddPage.js';
 import LocatePage from './pages/LocatePage.js';
+import Footer from './components/Footer';
 
 function App() {
    return (
@@ -15,7 +16,7 @@ function App() {
             <Route path='add' element={<AddPage />} />
             <Route path='locate' element={<LocatePage />} />
          </Routes>
-         React Project 001
+         <Footer />
       </div>
    );
 }
