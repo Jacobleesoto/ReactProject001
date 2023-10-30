@@ -1,0 +1,98 @@
+export const PALLETS = [
+   {
+      id: 0,
+      contractorId: 0,
+      jobId: 0,
+      palletNumber: 1,
+   },
+   {
+      id: 1,
+      contractorId: 0,
+      jobId: 0,
+      palletNumber: 2,
+   },
+   {
+      id: 2,
+      contractorId: 0,
+      jobId: 0,
+      palletNumber: 3,
+   },
+   {
+      id: 3,
+      contractorId: 0,
+      jobId: 0,
+      palletNumber: 4,
+   },
+   {
+      id: 4,
+      contractorId: 0,
+      jobId: 0,
+      palletNumber: 5,
+   },
+   {
+      id: 5,
+      contractorId: 0,
+      jobId: 0,
+      palletNumber: 6,
+   },
+   {
+      id: 6,
+      contractorId: 0,
+      jobId: 0,
+      palletNumber: 7,
+   },
+   {
+      id: 7,
+      contractorId: 0,
+      jobId: 1,
+      palletNumber: 1,
+   },
+   {
+      id: 8,
+      contractorId: 0,
+      jobId: 1,
+      palletNumber: 2,
+   },
+   {
+      id: 9,
+      contractorId: 0,
+      jobId: 1,
+      palletNumber: 3,
+   },
+   {
+      id: 10,
+      contractorId: 0,
+      jobId: 2,
+      palletNumber: 1,
+   },
+   {
+      id: 11,
+      contractorId: 1,
+      jobId: 3,
+      palletNumber: 1,
+   },
+   {
+      id: 12,
+      contractorId: 1,
+      jobId: 3,
+      palletNumber: 2,
+   },
+   {
+      id: 13,
+      contractorId: 1,
+      jobId: 3,
+      palletNumber: 3,
+   },
+   {
+      id: 14,
+      contractorId: 1,
+      jobId: 3,
+      palletNumber: 4,
+   },
+   {
+      id: 15,
+      contractorId: 3,
+      jobId: 7,
+      palletNumber: 1,
+   },
+];
