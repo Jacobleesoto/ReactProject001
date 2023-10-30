@@ -8,6 +8,7 @@ import {
    NavItem,
 } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
+import UserLoginForm from '../features/user/UserLoginForm';
 
 /* to do list
     - change icons for nav items
@@ -42,6 +43,7 @@ const Header = () => {
                   </NavLink>
                </NavItem>
             </Nav>
+            <UserLoginForm />
          </Collapse>
       </Navbar>
    );
