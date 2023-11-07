@@ -1,13 +1,13 @@
 import { Container } from 'reactstrap';
 import BackHomeButton from '../components/BackHomeButton';
-import ContractorDropdown from '../features/adding/ContractorDropdown';
+import AddPageSelections from '../features/adding/AddPageSelections';
 
 const AddPage = () => {
    return (
       <Container>
          <BackHomeButton />
          <h1>Add Pallet:</h1>
-         <ContractorDropdown />
+         <AddPageSelections />
       </Container>
    );
 };
